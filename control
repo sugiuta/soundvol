@@ -1,0 +1,11 @@
+Package: com.sugiuta.soundvol
+Name: SoundVol
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.soundvol
+Description: Automatically play/pause music depending on volume.
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Depends: mobilesubstrate
+Icon: https://sugiuta.github.io/repo/images/icons/SoundVol.png
